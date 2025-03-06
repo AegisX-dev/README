@@ -1,29 +1,26 @@
-# README
-My personal repository
-# 💫 About Me:
-🔭 I’m currently working on building my skills<br>🤝 I’m looking for help with growing myself<br>🌱 I’m currently learning back-end development<br>⚡ Fun fact i'm busy for whole day but i'm free too for whole day
+# 👋 Hi, I'm Dev Sharma
 
+## 🚀 About Me
+I'm a **Frontend Web Developer** passionate about creating interactive and user-friendly web applications. With a strong foundation in **HTML5, CSS3, JavaScript, and React.js**, I love turning designs into functional, responsive websites. 
 
-## 🌐 Socials:
-[![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/AegisX-Dev) 
+Currently pursuing a **B.Sc in Mathematics** at Chaudhary Charan Singh University, I'm continuously learning and improving my craft. Always excited to collaborate on innovative projects and contribute to open-source communities!
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AegisX-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AegisX-Dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AegisX-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💡 Skills
+- 🌐 Web Development: **HTML5, CSS3, JavaScript, React.js**
+- 🔧 Version Control: **Git & GitHub**
+- 🎨 UI/UX Focused, Responsive Design
+- 🌍 Languages: **English, Hindi**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AegisX-Dev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## 🎯 What I'm Working On
+- Building exciting React projects to enhance my portfolio.
+- Exploring **advanced JavaScript** and modern **frontend frameworks**.
+- Looking for **internship & collaboration opportunities** in web development.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+## 📬 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dev-sharma-aegis)
+- 🏗 [GitHub](https://github.com/AegisX-dev)
+- 🐦 [X (Twitter)](https://x.com/AegisxDev)
+- 🎨 [Uiverse](https://uiverse.io/profile/AegisX-dev)
+- ✉️ Email: [panditdev0804@gmail.com](mailto:panditdev0804@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AegisX-Dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=AegisX-Dev&icon=0&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💙 I love **anime, football, and manga**, so if you're into any of these, let's chat! 😊
